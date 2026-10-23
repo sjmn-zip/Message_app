@@ -1,0 +1,9 @@
+# 공식 마스코트 에셋 (저작권: 서울과학기술대학교, 승인 전 커밋 금지)
+public/assets/character/*
+!public/assets/character/.gitkeep
+
+# 의존성 및 빌드 산출물
+node_modules
+dist
+.DS_Store
+*.local
